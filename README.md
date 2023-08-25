@@ -6,7 +6,6 @@ Skills acquired :
 
 #- Correctness of imperative programs
 
-
 #++ Verification according to Floyd or Hoare
 #++ Termination
 #++ Procedures
